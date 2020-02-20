@@ -9,6 +9,8 @@ step 1
 - containerized this app
 - deploy and run this app on xx using wectl
 - give the url of this app to D. for test
+- url of the logs in kibana
+- url of potential metrics in grafana
 
 step 2
 - get a fancy dns name yourname-ww-workshop.x

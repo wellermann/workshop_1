@@ -7,8 +7,11 @@ step 0
 
 step 1
 - containerized this app
-- deploy and run this app on charlie using wectl
+- deploy and run this app on xx using wectl
 - give the url of this app to D. for test
 
-step 2:
+step 2
+- get a fancy dns name yourname-ww-workshop.x
+
+step 3:
 - we want security, let's add SSO on top of our app, better to be safe than sorry
